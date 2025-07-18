@@ -1,4 +1,13 @@
-# Predictive-Modelling
-(A Model to help predict future water levels of water bodies)
+#Blue Gold: Predicting Water Accessibility in Natural Waterbodies
+Water, often referred to as "blue gold," is vital for ecosystems, communities, and industry. This project offers data-driven solutions to assess and forecast water availability in various natural waterbodies. It applies statistical and machine learning models tailored to the unique behavior of each waterbody (lakes, rivers, springs, etc.), factoring in elements like climate, geography, and seasonal variability. Our approach lies at the intersection of ecological stewardship and data science, offering precise predictions to aid water resource management.
 
-The project's noteworthy groundwater level prediction results demonstrate the value of the Multivariate Prophet model and the Univariate LSTM model with a one-year rolling window. The rolling window strategy's emphasis on recent historical patterns improves adaptation to changing trends. These models show great potential for practical uses in environmental monitoring and water resource management due to their impressive performance. Future research should take into account ensemble techniques, hyperparameter adjustment, and the addition of new features to increase prediction accuracy even more. All things considered, this project offers insightful information and useful resources for dealing with important issues in environmental time series research.
+Index Terms
+Multivariate Time Series
+
+ARIMA Differencing
+
+Prophet
+
+XGBoost
+
+LSTM
