@@ -1,3 +1,4 @@
 # Predictive-Modelling
 (A Model to help predict future water levels of water bodies)
+
 The project's noteworthy groundwater level prediction results demonstrate the value of the Multivariate Prophet model and the Univariate LSTM model with a one-year rolling window. The rolling window strategy's emphasis on recent historical patterns improves adaptation to changing trends. These models show great potential for practical uses in environmental monitoring and water resource management due to their impressive performance. Future research should take into account ensemble techniques, hyperparameter adjustment, and the addition of new features to increase prediction accuracy even more. All things considered, this project offers insightful information and useful resources for dealing with important issues in environmental time series research.
