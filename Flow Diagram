@@ -1,0 +1,18 @@
+1. Collect Waterbody-Specific Datasets
+2. Preprocess Data
+   - Handle Missing Values
+   - Feature Selection & Transformation
+3. Exploratory Data Analysis (EDA)
+4. Stationarity Check (ADF Test)
+5. Feature Engineering
+   - Time Series Decomposition
+   - Cyclical Encoding
+   - Lag Features
+6. Model Development
+   - ARIMA / Auto-ARIMA
+   - LSTM
+   - XGBoost
+7. Real-Time Integration (future scope)
+8. Model Validation & Hyperparameter Tuning
+9. Early Warning System (optional integration)
+
